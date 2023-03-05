@@ -14,3 +14,5 @@
 8. 將訓練資料載入
 9. 進行預測
 10. 將比對結果顯示在圖片
+
+![img](https://github.com/leolee1204/svmLbph/blob/82c9fbcf8087a472b5fafa76b108e004a1294c0c/result.jpg)
